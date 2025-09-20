@@ -10,8 +10,8 @@ A simple Tic-Tac-Toe game built with **HTML, CSS, and JavaScript**.
 
 ## Demo
 
-👉 [Live Demo](https://yourusername.github.io/tic-tac-toe)
+👉 [Live Demo](https://tic-tac-toe-game-pp.netlify.app/)
 
 ## Screenshot
 
-(Add screenshot later here)
+![Tic Tac Toe Screenshot](screenshot.png)
